@@ -1,0 +1,16 @@
+C:\Users\LENOVO\Desktop\MyFirstProject\DataAccess\obj\Debug\net8.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\MyFirstProject\DataAccess\obj\Debug\net8.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\MyFirstProject\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\MyFirstProject\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\MyFirstProject\DataAccess\obj\Debug\net8.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\MyFirstProject\DataAccess\bin\Debug\net8.0\DataAccess.deps.json
+C:\Users\LENOVO\Desktop\MyFirstProject\DataAccess\bin\Debug\net8.0\DataAccess.dll
+C:\Users\LENOVO\Desktop\MyFirstProject\DataAccess\bin\Debug\net8.0\DataAccess.pdb
+C:\Users\LENOVO\Desktop\MyFirstProject\DataAccess\bin\Debug\net8.0\Entities.dll
+C:\Users\LENOVO\Desktop\MyFirstProject\DataAccess\bin\Debug\net8.0\Entities.pdb
+C:\Users\LENOVO\Desktop\MyFirstProject\DataAccess\obj\Debug\net8.0\DataAccess.csproj.Up2Date
+C:\Users\LENOVO\Desktop\MyFirstProject\DataAccess\obj\Debug\net8.0\DataAccess.dll
+C:\Users\LENOVO\Desktop\MyFirstProject\DataAccess\obj\Debug\net8.0\refint\DataAccess.dll
+C:\Users\LENOVO\Desktop\MyFirstProject\DataAccess\obj\Debug\net8.0\DataAccess.pdb
+C:\Users\LENOVO\Desktop\MyFirstProject\DataAccess\obj\Debug\net8.0\ref\DataAccess.dll
+C:\Users\LENOVO\Desktop\MyFirstProject\DataAccess\obj\Debug\net8.0\DataAccess.sourcelink.json
