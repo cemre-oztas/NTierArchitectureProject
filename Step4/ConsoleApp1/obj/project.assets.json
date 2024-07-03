@@ -3672,11 +3672,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\KatmanlıMimariDotNet\\MyFourthProject\\ConsoleApp1\\ConsoleUI.csproj",
+      "projectUniqueName": "E:\\GitHub\\NTierArchitectureProject\\Step4\\ConsoleApp1\\ConsoleUI.csproj",
       "projectName": "ConsoleUI",
-      "projectPath": "E:\\KatmanlıMimariDotNet\\MyFourthProject\\ConsoleApp1\\ConsoleUI.csproj",
+      "projectPath": "E:\\GitHub\\NTierArchitectureProject\\Step4\\ConsoleApp1\\ConsoleUI.csproj",
       "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-      "outputPath": "E:\\KatmanlıMimariDotNet\\MyFourthProject\\ConsoleApp1\\obj\\",
+      "outputPath": "E:\\GitHub\\NTierArchitectureProject\\Step4\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3693,11 +3693,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "E:\\KatmanlıMimariDotNet\\MyFourthProject\\Business\\Business.csproj": {
-              "projectPath": "E:\\KatmanlıMimariDotNet\\MyFourthProject\\Business\\Business.csproj"
+            "E:\\GitHub\\NTierArchitectureProject\\Step4\\Business\\Business.csproj": {
+              "projectPath": "E:\\GitHub\\NTierArchitectureProject\\Step4\\Business\\Business.csproj"
             },
-            "E:\\KatmanlıMimariDotNet\\MyFourthProject\\DataAccess\\DataAccess.csproj": {
-              "projectPath": "E:\\KatmanlıMimariDotNet\\MyFourthProject\\DataAccess\\DataAccess.csproj"
+            "E:\\GitHub\\NTierArchitectureProject\\Step4\\DataAccess\\DataAccess.csproj": {
+              "projectPath": "E:\\GitHub\\NTierArchitectureProject\\Step4\\DataAccess\\DataAccess.csproj"
             }
           }
         }

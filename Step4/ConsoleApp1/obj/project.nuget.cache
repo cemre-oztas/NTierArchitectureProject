@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9B6MFN8o93lUHHsSDXPfFAT85Bhylb7FT8m0gZEpZ+PK3MRuo393AShE4kgMCpkoDLha4NiJR9K0oIlTsn4EbQ==",
+  "dgSpecHash": "1ErgfDi1swg0xcKVXc1ARTOxBKIYhZwC7W/XUbotm7g790JHwA0vi9xaheCcwOiDrnSumRRsAysfxgTTpwJhOA==",
   "success": true,
-  "projectFilePath": "E:\\KatmanlıMimariDotNet\\MyFourthProject\\ConsoleApp1\\ConsoleUI.csproj",
+  "projectFilePath": "E:\\GitHub\\NTierArchitectureProject\\Step4\\ConsoleApp1\\ConsoleUI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\LENOVO\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\LENOVO\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

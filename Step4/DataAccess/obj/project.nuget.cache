@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OMzMpmFiNXHOb2/v7TxBbxfOlAVJpGs4WN1VhmEaElDGMt3KMF7iHFNip3+SA0kofNSN3lNq27CUfEGGsfsjQg==",
+  "dgSpecHash": "4xsfC9wKy1BiGR4Dv+Ahbb7oR5Ax+VQS3ebHU0b2s+UIWD+YZ/agAQw1JvzIdS0QBXLqMkZ3A5hdGRjRx+gVrg==",
   "success": true,
-  "projectFilePath": "E:\\KatmanlıMimariDotNet\\MyFourthProject\\DataAccess\\DataAccess.csproj",
+  "projectFilePath": "E:\\GitHub\\NTierArchitectureProject\\Step4\\DataAccess\\DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\LENOVO\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\LENOVO\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

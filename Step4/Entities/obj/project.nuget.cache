@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FniZ1Uui4Ce2v56emoNOJ0GHVWzXlJE/N6EmgFumXNmcqP8U7jIgR1LKX8mM9c/I+MI648LYz2KehNce10AaHQ==",
+  "dgSpecHash": "dHvPTZsEJ32Xxick6fZkm8EeU6GOh+zeXMJykxL+2dV18q41e3QMSq4kKKBsJq8leSPyAJQ6v98dWqM0JDqDPA==",
   "success": true,
-  "projectFilePath": "E:\\KatmanlıMimariDotNet\\MyFourthProject\\Entities\\Entities.csproj",
+  "projectFilePath": "E:\\GitHub\\NTierArchitectureProject\\Step4\\Entities\\Entities.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

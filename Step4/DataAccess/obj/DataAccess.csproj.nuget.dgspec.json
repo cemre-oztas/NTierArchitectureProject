@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\KatmanlıMimariDotNet\\MyFourthProject\\DataAccess\\DataAccess.csproj": {}
+    "E:\\GitHub\\NTierArchitectureProject\\Step4\\DataAccess\\DataAccess.csproj": {}
   },
   "projects": {
-    "E:\\KatmanlıMimariDotNet\\MyFourthProject\\DataAccess\\DataAccess.csproj": {
+    "E:\\GitHub\\NTierArchitectureProject\\Step4\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\KatmanlıMimariDotNet\\MyFourthProject\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "E:\\GitHub\\NTierArchitectureProject\\Step4\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "E:\\KatmanlıMimariDotNet\\MyFourthProject\\DataAccess\\DataAccess.csproj",
+        "projectPath": "E:\\GitHub\\NTierArchitectureProject\\Step4\\DataAccess\\DataAccess.csproj",
         "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-        "outputPath": "E:\\KatmanlıMimariDotNet\\MyFourthProject\\DataAccess\\obj\\",
+        "outputPath": "E:\\GitHub\\NTierArchitectureProject\\Step4\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "E:\\KatmanlıMimariDotNet\\MyFourthProject\\Entities\\Entities.csproj": {
-                "projectPath": "E:\\KatmanlıMimariDotNet\\MyFourthProject\\Entities\\Entities.csproj"
+              "E:\\GitHub\\NTierArchitectureProject\\Step4\\Entities\\Entities.csproj": {
+                "projectPath": "E:\\GitHub\\NTierArchitectureProject\\Step4\\Entities\\Entities.csproj"
               }
             }
           }
@@ -86,14 +86,14 @@
         }
       }
     },
-    "E:\\KatmanlıMimariDotNet\\MyFourthProject\\Entities\\Entities.csproj": {
+    "E:\\GitHub\\NTierArchitectureProject\\Step4\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\KatmanlıMimariDotNet\\MyFourthProject\\Entities\\Entities.csproj",
+        "projectUniqueName": "E:\\GitHub\\NTierArchitectureProject\\Step4\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "E:\\KatmanlıMimariDotNet\\MyFourthProject\\Entities\\Entities.csproj",
+        "projectPath": "E:\\GitHub\\NTierArchitectureProject\\Step4\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-        "outputPath": "E:\\KatmanlıMimariDotNet\\MyFourthProject\\Entities\\obj\\",
+        "outputPath": "E:\\GitHub\\NTierArchitectureProject\\Step4\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
